@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Exemplo de validação de formulário</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+<body>
+    <h1>Formulário de validação</h1>
+    <div class="errors" role="alert" aria-relevant="all">
+      <ul>
+
+      </ul>
+
+    </div>
+    <form>
+      <div>
+        <label for="name">Nome:</label>
+        <input type="text" name="nome" id="name">
+      </div>
+      <div>
+        <label for="age">Idade:</label>
+        <input type="number" name="idade" id="age">
+      </div>
+      <div>
+        <input type="submit">
+      </div>
+      <div></div>
+    </form>
+    <script src="validation.js"></script>
+</body>
+
+</html>
