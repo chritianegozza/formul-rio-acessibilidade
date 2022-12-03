@@ -17,11 +17,11 @@ você entra no campo que está o erro.
 ********************************************************************************************************
 Tecnologias
 
-JAVASCRIPT
+* JAVASCRIPT
 
-CSS
+* CSS
 
-HTML
+* HTML
 
 ***********************************************************************************************************
 Caso você queria conhece o resultado do projeto, entre [aqui](https://formulario-acessibilidade.christianegozza.repl.co/?name=&age=#idade).
